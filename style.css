@@ -2,6 +2,9 @@
     background-color: goldenrod;
     font-size: 80px;
 }
+body, h1 {
+    margin: 0px;
+}
 
 .midden {
     display: flex;
