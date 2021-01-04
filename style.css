@@ -1,12 +1,12 @@
 .background {
     background-color: goldenrod;
-    font-size: 600px;
+    font-size: 100px;
 }
 
 .midden {
     display: flex;
     justify-content: center;
-    font-size: 150px;
+    font-size: 75px;
     color: black;
 }
 
