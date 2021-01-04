@@ -1,0 +1,16 @@
+.background {
+    background-color: goldenrod;
+}
+
+.midden {
+    display: flex;
+    justify-content: center;
+    font-size: 150px;
+    color: black;
+}
+
+.onder {
+    display: flex;
+    justify-content: center;
+    font-size: 2px;
+}
